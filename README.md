@@ -10,8 +10,7 @@ Features:
     User-Friendly Interface
     API Integration
 
-Demo:
-https://weather-app-himanshu.netlify.app/
+
 
 Technologies Used:
 
@@ -25,8 +24,5 @@ This project uses the following API to fetch weather data:
 
     https://openweathermap.org/current
 
-Contact:
 
-    Himanshu Yadav
-    Email: Himyadav.yh@gmail.com
     
